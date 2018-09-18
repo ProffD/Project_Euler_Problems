@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/His Stuff/Projects/Clion/Project_Euler_Problem(1-10)/main.cpp
+iostream
+-
+vector
+-
+functional
+-
+numeric
+-
+math.h
+-
+algorithm
+-
+chrono
+-
+
